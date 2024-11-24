@@ -1,0 +1,12 @@
+{
+    "LinkPP": "https://raw.githubusercontent.com/basurigamer/carambazyk/refs/heads/main/ppno",
+    "IsAccess": false,
+    "Locales": ["Russian"],
+    "TimeZs": ["Kaliningrad", "Kirov", "Moscow", "Samara", "Saratov", "Volgograd", "Yekaterinburg", "Omsk", "Barnaul", "Krasnoyarsk", "Novosibirsk",
+    "Irkutsk", "Chita", "Vladivostok", "Magadan", "Sakhalin", "Srednekolymsk", "Anadyr", "Kamchatka", "Oral", "Almaty", "Baku", "Yerevan", "Minsk",
+    "Bishkek", "Chisinau", "Dushanbe", "Tashkent"],
+    "Refs": 
+    [ 
+          { "Locale":"Russian", "Refer": ""}
+    ]
+}
