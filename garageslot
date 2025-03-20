@@ -1,0 +1,9 @@
+{
+    "GarageEnable": false,
+    "GarageLang": ["Russian"],
+    "GarageTime": ["Yekaterinburg"],
+    "GarageLink": 
+    [ 
+          { "Lang":"Russian", "Links": [""]}
+    ]
+ }
