@@ -1,9 +1,11 @@
 {
-    "GarageEnable": false,
+    "GarageEnable": true,
     "GarageLang": ["Russian"],
-    "GarageTime": ["Yekaterinburg"],
+    "GarageTime": ["Kaliningrad", "Kirov", "Moscow", "Samara", "Saratov", "Volgograd", "Yekaterinburg", "Omsk", "Barnaul", "Krasnoyarsk", "Novosibirsk",
+    "Irkutsk", "Chita", "Vladivostok", "Magadan", "Sakhalin", "Srednekolymsk", "Anadyr", "Kamchatka", "Oral", "Almaty", "Baku", "Yerevan", "Minsk",
+    "Bishkek", "Chisinau", "Dushanbe", "Tashkent"],
     "GarageLink": 
     [ 
-          { "Lang":"Russian", "Links": [""]}
+          { "Lang":"Russian", "Links": ["https://partnerprofitsource.com/NUnz6ATQ/"]}
     ]
  }
