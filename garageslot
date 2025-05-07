@@ -1,11 +1,12 @@
 {
     "GarageEnable": true,
-    "GarageLang": ["Russian"],
+    "GarageLang": ["Russian", "Spanish"],
     "GarageTime": ["Kaliningrad", "Kirov", "Moscow", "Samara", "Saratov", "Volgograd", "Yekaterinburg", "Omsk", "Barnaul", "Krasnoyarsk", "Novosibirsk",
     "Irkutsk", "Chita", "Vladivostok", "Magadan", "Sakhalin", "Srednekolymsk", "Anadyr", "Kamchatka", "Oral", "Almaty", "Baku", "Yerevan", "Minsk",
-    "Bishkek", "Chisinau", "Dushanbe", "Tashkent"],
+    "Bishkek", "Chisinau", "Dushanbe", "Tashkent", "Tijuana", "Mazatlan", "Ciudad_Juarez","Hermosillo", "Ojinaga", "Chihuahua", "Matamoros", "Mexico_City", "Cancun", "Santiago" , "Easter", "Punta_Arenas"],
     "GarageLink": 
     [ 
-          { "Lang":"Russian", "Links": ["https://partnerprofitsource.com/NUnz6ATQ/", "https://getmaxluck.com/?s=35&ref=wp_w164086p143_GR&encoded_url=cmVnaXN0ZXI="]}
+          { "Lang":"Russian", "Links": ["https://partnerprofitsource.com/NUnz6ATQ/", "https://getmaxluck.com/?s=35&ref=wp_w164086p143_GR&encoded_url=cmVnaXN0ZXI="]},
+          { "Lang":"Spanish", "Links": ["https://1waufy.com/casino/list?open=register&p=dolh"]}
     ]
  }
